@@ -16,6 +16,8 @@ Key highlights of our project include:
 
 Our project stands at the intersection of data analysis and practical application, offering a unique perspective on digital communication trends.
 
+![Frame 1](https://github.com/chingyuan1215/Tweet-Emoji-Prediction-Chatbot/assets/65063401/6f5b0272-d0f6-4298-adbd-13dd468ed1e7)
+
 ### Features
 
 - **Emoji Suggestion Model**: At the heart of EmojiBot is our advanced model that suggests the most fitting emoji for any given text. This feature is showcased in our interactive chat application, enhancing digital communication with relevant emojis.
